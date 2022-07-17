@@ -1,4 +1,4 @@
-package com.sunilkumar.toastit
+package com.sunilk9211.toastit
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
