@@ -1,15 +1,13 @@
-package com.example.toastproject
+package com.sunilkumar.toastit
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.toasterlibrary.ToastIt
+import android.widget.Button
+import androidx.appcompat.app.AppCompatActivity
+import com.sunilkumar.toasterlibrary.ToastIt
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        ToastIt.toastMessage(this, "How are you dude?")
-
     }
 }
