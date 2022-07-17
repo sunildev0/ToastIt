@@ -1,4 +1,4 @@
-package com.sunilkumar.toasterlibrary
+package com.sunilk9211.toastit
 
 object ToastAt {
     const val LEFT = "left"
