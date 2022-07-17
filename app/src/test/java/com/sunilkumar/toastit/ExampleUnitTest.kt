@@ -1,4 +1,4 @@
-package com.example.toasterlibrary
+package com.sunilkumar.toastit
 
 import org.junit.Test
 
