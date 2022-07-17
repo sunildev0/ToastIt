@@ -1,4 +1,4 @@
-package com.sunilkumar.toasterlibrary
+package com.sunilk9211.toastit
 
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
@@ -13,7 +13,7 @@ import android.view.WindowManager
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.fragment.app.DialogFragment
-import androidx.fragment.app.FragmentManager
+import com.sunilkumar.toasterlibrary.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.delay
