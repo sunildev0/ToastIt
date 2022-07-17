@@ -1,4 +1,4 @@
-package com.sunilk9211.toastit
+package com.sunilkumar.toastproject
 
 import org.junit.Test
 
