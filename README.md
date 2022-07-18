@@ -23,7 +23,7 @@ Show custom toasts.
 	<dependency>
 	    <groupId>com.github.sunilk9211</groupId>
 	    <artifactId>ToastIt</artifactId>
-	    <version>1.0.0-alpha02</version>
+	    <version>1.0.0-alpha06</version>
 	</dependency>
   
   
@@ -41,7 +41,7 @@ Show custom toasts.
 #### Add the dependency
 
 	dependencies {
-	        implementation 'com.github.sunilk9211:ToastIt:1.0.0-alpha02'
+	        implementation 'com.github.sunilk9211:ToastIt:1.0.0-alpha06'
 	}
   
   
