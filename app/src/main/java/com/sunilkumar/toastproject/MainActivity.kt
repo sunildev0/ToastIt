@@ -2,7 +2,6 @@ package com.sunilkumar.toastproject
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.sunilk9211.toastit.R
 import com.sunilk9211.toastit.ToastIt
 
 class MainActivity : AppCompatActivity() {
