@@ -69,7 +69,7 @@ Show custom toasts.
 ## Want to contribute?
 
 This project is early stage of development, it will be awesome to have some good contributors like you.
-If you have any suggestion to improve this project, please mention the here https://github.com/sunilk9211/ToastIt/issues
+If you have any suggestion to improve this project, please mention that here https://github.com/sunilk9211/ToastIt/issues
 
 
 ## Contributors
